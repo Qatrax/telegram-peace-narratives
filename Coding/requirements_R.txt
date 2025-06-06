@@ -1,0 +1,4 @@
+httr (>= 1.4.0)
+jsonlite (>= 1.7.2)
+stringr (>= 1.4.0)
+readr (>= 2.1.0)

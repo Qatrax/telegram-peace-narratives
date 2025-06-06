@@ -1,0 +1,7 @@
+pandas>=1.5
+nltk>=3.7
+tqdm>=4.64
+pymorphy2>=0.9
+bertopic>=0.16
+sentence-transformers>=2.2
+telethon>=1.28
