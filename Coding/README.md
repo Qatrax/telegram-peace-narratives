@@ -20,7 +20,7 @@ The script is designed for transparent, reproducible, and scalable annotation of
 The codebook should be a plain text file (`.txt`), one line per code.  
 Each line consists of a numeric code, a short theme description, and an optional comment, separated by a tab character.
 
-Example (See real codes in `codes_with_desc_RU.txt`):
+Example (_You can see the real codes in the file_ `codes_with_desc_RU.txt`):
 
 ```yaml
 1 Farm # Texts mentioning farms or agricultural production
